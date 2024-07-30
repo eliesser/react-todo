@@ -14,7 +14,7 @@ Asegúrate de tener instaladas las siguientes herramientas en tu máquina:
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone
+git clone https://github.com/eliesser/react-todo.git
 cd react-todo
 ```
 
