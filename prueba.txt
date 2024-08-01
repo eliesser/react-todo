@@ -1,0 +1,18 @@
+Example Task: Create a Dynamic Todo List
+Requirements:
+
+    Create a React application that consists of a todo list.
+    The todo list should display a list of tasks, each with a checkbox to mark it as completed and a delete button to remove it.
+    Users should be able to add new tasks to the list using an input field and a "Add Task" button.
+    Completed tasks should be visually distinct from incomplete tasks (e.g., strike through or different styling).
+    When a task is marked as completed, it should move to the bottom of the list.
+    Implement proper state management to keep track of the list of tasks.
+    Implement event handlers to handle user interactions like adding, deleting, and marking tasks as completed.
+    Use appropriate React components to structure your application.
+    Style the application using CSS or a styling library of your choice to make it visually appealing.
+
+
+Bonus (Optional):
+
+    Add the ability to edit tasks.
+    Implement local storage or a backend API to persist tasks across sessions.
